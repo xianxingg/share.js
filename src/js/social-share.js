@@ -65,7 +65,7 @@
 
     /**
      * Expose API to the global
-     * 
+     *
      * @param  {String|Element} elem
      * @param  {Object} options
      */
@@ -226,7 +226,7 @@
      * Simple selector.
      *
      * @param {String} str #ID or .CLASS
-     * 
+     *
      * @returns {Array}
      */
     function selector(str) {
