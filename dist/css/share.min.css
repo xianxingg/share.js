@@ -32,7 +32,7 @@
   padding-right: 3px;
 }
 .social-share .icon-text {
-  background-image: url(http://www.acem.sjtu.edu.cn/acem/images/v15/share.gif);
+  background-image: url(http://www.acem.sjtu.edu.cn/en/images/share-en.jpg);
   background-repeat: no-repeat;
   background-position: center;
   width: 47px;
@@ -115,9 +115,9 @@
 }
 
 /**smaller*/
-.social-share { width: 197px !important; }
+.social-share { width: 210px !important; }
 .social-share .social-share-icon { background-size: cover; height: 26px !important; padding-left: 2px; padding-right: 1px; min-width: 0 !important; }
-.icon-text { width: 40px !important; }
+.icon-text { width: 50px !important; }
 .icon-weibo { width: 24px !important; }
 .icon-wechat { width: 24px !important; }
 .icon-linkedin { width: 64px !important; }
